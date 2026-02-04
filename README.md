@@ -2,7 +2,7 @@
 
 # Logic Drills: Daily Coding Practice
 
-A collection of programming challenges solved in **Python** and **C**. This repository tracks my journey in sharpening algorithmic logic, improving code efficiency, and building a disciplined "daily-three" practice habit.
+A collection of programming challenges solved in **Python** and **C**.
 
 ## Languages & Tools
 
