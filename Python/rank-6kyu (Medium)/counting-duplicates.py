@@ -1,3 +1,9 @@
+"""
+Codewars Challenge: Counting Duplicates
+Rank: 6 kyu
+URL: https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1
+"""
+
 from collections import Counter
 
 
