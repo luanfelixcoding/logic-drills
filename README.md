@@ -8,7 +8,8 @@ A collection of programming challenges solved in **Python** and **C**.
 
 * **Python:** Used for high-level logic, data manipulation, and rapid prototyping.
 * **C:** Used for first-principles thinking, math-heavy logic, and memory management.
-* **Platforms:** Codewars.
+* **SQL**: Used for database querying, data modeling, and relational data manipulation.
+* **Platforms:** [Codewars](https://www.codewars.com).
 
 ## Repository Structure
 
