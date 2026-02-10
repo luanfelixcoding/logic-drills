@@ -14,10 +14,15 @@ A collection of programming challenges solved in **Python** and **C**.
 
 ```text
 /
+├── C/
+│   ├── rank-5kyu (Medium)
+│   ├── rank-6kyu (Medium)
+│   └── rank-8kyu (Easy)
 ├── Python/
-│   └── rank-6kyu/
-│       └── digital_root.py   
-└── C/
-    └── rank-6kyu/
-        └── digital_root.c
+│   ├── rank-5kyu (Medium)
+│   ├── rank-6kyu (Medium)
+│   └── rank-8kyu (Easy)
+└── SQL/
+    ├── rank-6kyu (Medium)
+    └── rank-7kyu (Easy)
 ```
